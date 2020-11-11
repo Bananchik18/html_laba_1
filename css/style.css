@@ -1,0 +1,17 @@
+.paragraph{
+    margin-top: 50px;
+}
+.block_form{
+    margin-top: 10px;
+    padding: 18px;
+}
+.btn_form{
+    padding: 10px 34px;
+    background: #ff9d0a;
+    outline: none;
+    border: 0;
+    color: white;
+}
+.red_span{
+    color: red;
+}
